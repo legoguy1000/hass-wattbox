@@ -1,0 +1,10 @@
+{
+  "domain": "wattbox",
+  "name": "Wattbox",
+  "documentation": "https://www.home-assistant.io/components/wattbox",
+  "requirements": [
+    "pywattbox>=0.2.0"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
